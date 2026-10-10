@@ -2,7 +2,7 @@
 
 Mon profil GitHub - Data Analyst / Data Scientist Junior, disponible immédiatement
 
-# Bonjour, moi c'est Essoréké 👋
+# Bonjour, moi c'est Essoréké
 
 🎓 Double diplômée de deux Masters : Master en Études Économiques et Statistiques (Université Lumière Lyon 2, 2024-2026) et Master Analyste Quantitatif & Marketing de l'Assurance (Institut du Risque et de l'Assurance, 2022-2024)
 📊 Spécialisée en analyse prédictive, modélisation statistique et Business Intelligence, avec une double compétence data + assurance rare sur le marché
