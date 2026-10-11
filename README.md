@@ -51,7 +51,7 @@ Mon profil GitHub - Data Analyst / Data Scientist Junior, disponible immédiatem
 
 ### 🚗 Diagnostic Loss Ratio — Assurance Auto
 Dashboard Power BI d'analyse de la sinistralité automobile (678 000 polices) : identification des segments de risque sous-tarifés, modélisation d'une prime actuarielle, contrôles de crédibilité statistique.
-👉 [Voir le projet](lien-vers-ton-repo)
+👉 [Voir le projet]([lien-vers-ton-repo](https://github.com/essoreke-analyse/powerbi-tarification-assurance)
 ---
 
 ## 📫 Me contacter
