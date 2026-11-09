@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Essoréké
 
-**Data Analyst / Data Scientist junior · Chargée d'études statistiques**
+**Data Analyst / Data Scientist junior · Chargée d'études statistiques**<br>
 Double compétence **statistique** et **banque-assurance** · disponible immédiatement
 
 Diplômée de deux masters : **Études économiques et statistiques** (Université Lumière Lyon 2) et **Analyse quantitative et marketing de l'assurance** (Institut du Risque et de l'Assurance, Le Mans Université). J'aime les projets qui partent d'une question métier et finissent par une décision chiffrée, expliquée simplement.
@@ -13,6 +13,10 @@ Diplômée de deux masters : **Études économiques et statistiques** (Universit
 Score de fraude sur 1,85 million de transactions : contrôle qualité des données en SQL, indicateurs de comportement en SQL et PySpark, 7 modèles comparés (logistique, réseau bayésien, SVM, Random Forest, LightGBM…), seuil d'alerte choisi selon les coûts, explication des alertes (SHAP), suivi de stabilité (PSI) et tableau de bord Power BI.
 **Résultat :** 95 % des fraudes arrêtées avec une douzaine d'alertes par jour.
 `Python` `SQL` `PySpark` `LightGBM` `Power BI`
+
+### 🛒 [Promotions et prix en grande distribution](https://github.com/essoreke-analyse/promo-pricing-analytics)
+Analyse de l'effet des promotions et des prix : élasticités-prix, gain et retour sur investissement des promotions, prévision des ventes LightGBM validée par back-test, application Streamlit et assistant IA évalué sur 20 questions.
+`Python` `LightGBM` `Streamlit` `économétrie`
 
 ### 📞 [Churn télécom : qui contacter, et combien ça rapporte](https://github.com/essoreke-analyse/telecom-churn-retention)
 Prédiction des résiliations transformée en décision de campagne de fidélisation : validation croisée imbriquée, analyse de rentabilité selon les hypothèses.
