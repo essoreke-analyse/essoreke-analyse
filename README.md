@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Essoréké 👋
+# Bonjour, moi c'est Essoréké
 
 **Data Analyst / Data Scientist junior · Chargée d'études statistiques**
 Double compétence **statistique** et **banque-assurance** · disponible immédiatement
@@ -47,4 +47,4 @@ Tableau de bord Power BI sur 678 000 contrats : segments de risque sous-tarifés
 
 Un poste de **Data Analyst**, **Data Scientist junior** ou **Chargée d'études statistiques**, en banque, en assurance ou dans la statistique publique, pour mettre la donnée au service de décisions concrètes.
 
-📫 essorekekiheou@gmail.com
+
